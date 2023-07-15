@@ -1,3 +1,3 @@
-import {LangSwitcher} from "shared/ui/LangSwitcher/LangSwitcher";
+import { LangSwitcher } from 'shared/ui/LangSwitcher/LangSwitcher';
 
-export {LangSwitcher};
+export { LangSwitcher };
